@@ -10,3 +10,7 @@ yarn-error.log
 .next
 .idea
 tsconfig.tsbuildinfo
+
+.yarn/*
+!.yarn/cache
+!.yarn/releases
